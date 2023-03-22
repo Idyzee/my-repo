@@ -1,5 +1,2 @@
-# my-repo
-for practise
-
-#repo 2
+#repo 
 for my development
